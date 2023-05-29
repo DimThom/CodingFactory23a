@@ -1,0 +1,35 @@
+package gr.aueb.cf.ch8;
+
+public class CommonErrorCases {
+
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4};
+        int minPosition;
+
+        minPosition = getMinPosition(arr);
+
+        if (minPosition == -1) {
+            System.out.println("Invalid Array");
+        } else {
+            System.out.println(minPosition);
+        }
+    }
+    public static int getMinPosition(int[] arr) {
+        if (arr == null) return -1; // common error case
+
+        int minPosition = 0;
+        int minValue = 0;
+
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] < arr[minPosition]) {
+                minPosition = i;
+                minValue = arr[i];
+            }
+        }
+
+        return minPosition;
+    }
+}
+
+
+
