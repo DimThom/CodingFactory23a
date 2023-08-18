@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"gr.aueb.cf.testbed.ch14.tsk2","c":"User","l":"registerUser()"},{"p":"gr.aueb.cf.testbed.ch14.tsk2","c":"User","l":"User(Long, String, String)","url":"%3Cinit%3E(java.lang.Long,java.lang.String,java.lang.String)"}]
