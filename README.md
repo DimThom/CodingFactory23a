@@ -13,12 +13,11 @@
 
 - [HelloWorld](https://github.com/DimThom/CodingFactory23a/blob/main/ch1/HelloWorld.java)
 - [AddApp](https://github.com/DimThom/CodingFactory23a/blob/main/ch1/AddApp.java)
-- ...
 
 ## Επικοινωνία
 
-Για οποιεσδήποτε ερωτήσεις ή απορίες, μη διστάσετε να επικοινωνήσετε μαζί μας [www.aueb.gr](https://www.aueb.gr/el/contactsopa).
+Για οποιεσδήποτε ερωτήσεις ή απορίες, μη διστάσετε να επικοινωνήσετε μαζί μας.
 
 ---
 
-Ευχαριστούμε που επισκεφθήκατε το αποθετήριο μας. Καλή μάθηση!
+Ευχαριστούμε που επισκεφθήκατε το αποθετήριο μας.
