@@ -13,6 +13,11 @@ To view details about a specific course, simply navigate to the corresponding fo
 - [HelloWorld](https://github.com/DimThom/CodingFactory23a/blob/main/ch1/HelloWorld.java)
 - [AddApp](https://github.com/DimThom/CodingFactory23a/blob/main/ch1/AddApp.java)
 
+## License
+
+This application is licensed under the [MIT License](LICENSE), allowing free use, distribution, and modification of the code.
+
+
 ## Contact
 
 For any questions or inquiries, feel free to get in touch with us.
