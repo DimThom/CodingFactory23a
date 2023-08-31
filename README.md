@@ -1,23 +1,22 @@
-# Μαθήματα στο Coding Factory του AUEB
+# Courses at the AUEB Coding Factory
 
-Καλωσήρθατε στο αποθετήριο που περιέχει πληροφορίες για τα μαθήματα που παρακολουθούμε στο Coding Factory του Οικονομικού Πανεπιστημίου Αθηνών.
+Welcome to the repository containing information about the courses we attend at the AUEB Coding Factory of the Athens University of Economics and Business.
 
-## Περίληψη
+## Summary
 
-Αυτό το αποθετήριο περιέχει πληροφορίες για τα μαθήματα που παρακολουθούμε στο πλαίσιο του Coding Factory. Κάθε μάθημα έχει το δικό του φάκελο με το όνομα του μαθήματος, 
-περιέχοντας πληροφορίες, εργασίες και πηγές.
+This repository contains information about the courses we attend within the framework of the Coding Factory. Each course has its own folder with the name of the course, containing information, assignments, and resources.
 
-## Πλοήγηση
+## Navigation
 
-Για να δείτε λεπτομέρειες για ένα συγκεκριμένο μάθημα, απλά μεταβείτε στον αντίστοιχο φάκελο.
+To view details about a specific course, simply navigate to the corresponding folder.
 
 - [HelloWorld](https://github.com/DimThom/CodingFactory23a/blob/main/ch1/HelloWorld.java)
 - [AddApp](https://github.com/DimThom/CodingFactory23a/blob/main/ch1/AddApp.java)
 
-## Επικοινωνία
+## Contact
 
-Για οποιεσδήποτε ερωτήσεις ή απορίες, μη διστάσετε να επικοινωνήσετε μαζί μας.
+For any questions or inquiries, feel free to get in touch with us.
 
 ---
 
-Ευχαριστούμε που επισκεφθήκατε το αποθετήριο μας.
+Thank you for visiting our repository.
